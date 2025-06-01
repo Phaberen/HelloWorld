@@ -1,4 +1,4 @@
-public class ArrayPlusLoop {
+/*public class ArrayPlusLoop {
     public static void main(String[] args) {
 
         // Her Printes hele Arrayof8, men kun første og sidste slot er defineret

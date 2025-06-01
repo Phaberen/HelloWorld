@@ -1,4 +1,4 @@
-public class IterateThroughArray {
+/*public class IterateThroughArray {
 
     // Deklarer arrayet uden for main
     static double[] ArrayOf5 = {4.5, 25.3, 12.1, 34.0, 15.5};

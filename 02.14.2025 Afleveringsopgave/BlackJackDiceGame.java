@@ -2,7 +2,7 @@ import javax.swing.plaf.basic.BasicDesktopIconUI;
 import java.util.Random;
 import java.util.Scanner;
 
-public class BlackJackDiceGame {
+/*public class BlackJackDiceGame {
     public static void main(String[] args) {
 
 

@@ -1,26 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
-    <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/.idea" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/01.29.2025 Variabler, operatorer &amp; expressions" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/01.31.2025 For Loops &amp; While Loops" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/02.04.2025 Input &amp; Output" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/02.05.2025 Metoder &amp; Parametre" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/02.07.2025 Conditionals &amp; Booleans" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/02.10.2025 Opsamling loops, metoder, bolsk logik" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/02.12.2025 Arrays" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/02.14.2025 Afleveringsopgave" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/02.19.2025 Objekter og klasser" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/02.24.2025 Objekters state" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/02.25.2025 Method Overloading" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/02.26.2025 Inheritance" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/03.07.2025 ArrayList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04.25.2025 Eksamensforberedelse Programmering" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/01.29.2025 Variabler, operatorer &amp; expressions" />
+      <excludeFolder url="file://$MODULE_DIR$/01.31.2025 For Loops &amp; While Loops" />
+      <excludeFolder url="file://$MODULE_DIR$/02.04.2025 Input &amp; Output" />
+      <excludeFolder url="file://$MODULE_DIR$/02.05.2025 Metoder &amp; Parametre" />
+      <excludeFolder url="file://$MODULE_DIR$/02.07.2025 Conditionals &amp; Booleans" />
+      <excludeFolder url="file://$MODULE_DIR$/02.10.2025 Opsamling loops, metoder, bolsk logik" />
+      <excludeFolder url="file://$MODULE_DIR$/02.12.2025 Arrays" />
+      <excludeFolder url="file://$MODULE_DIR$/02.14.2025 Afleveringsopgave" />
+      <excludeFolder url="file://$MODULE_DIR$/02.19.2025 Objekter og klasser" />
+      <excludeFolder url="file://$MODULE_DIR$/02.24.2025 Objekters state" />
+      <excludeFolder url="file://$MODULE_DIR$/02.25.2025 Method Overloading" />
+      <excludeFolder url="file://$MODULE_DIR$/02.26.2025 Inheritance" />
       <excludeFolder url="file://$MODULE_DIR$/03.07.2025 ArrayList" />
+      <excludeFolder url="file://$MODULE_DIR$/04.03.2025 Files" />
+      <excludeFolder url="file://$MODULE_DIR$/04.04.2025 Filer fortsat" />
+      <excludeFolder url="file://$MODULE_DIR$/04.09.2025 Sortering" />
+      <excludeFolder url="file://$MODULE_DIR$/04.11.2025 Interface" />
+      <excludeFolder url="file://$MODULE_DIR$/04.22.2025 Design Patterns (GRASP)" />
+      <excludeFolder url="file://$MODULE_DIR$/LearnJava" />
+      <excludeFolder url="file://$MODULE_DIR$/Marios Pizzabar" />
+      <excludeFolder url="file://$MODULE_DIR$/MariosPizza" />
+      <excludeFolder url="file://$MODULE_DIR$/datafiler" />
+      <excludeFolder url="file://$MODULE_DIR$/04.23.2025 Unit tests" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="JUnit5.8.1">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
